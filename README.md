@@ -6,7 +6,7 @@ https://www.quora.com/What-happens-if-you-don’t-tip-your-waiter-in-the-U-S
 
 ## Usage
 ```bash
-python3 
+python3 tip_calaculator.py
 ```
 
 ## For the future: 
